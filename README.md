@@ -1,2 +1,2 @@
 # Everyday-object-and-dog-cat-classifer
-Implemented a convolutional neural network on Tensorflow to identify everyday objects such as clothes and vehicles. Hypertuned with pre-existing model to achieve 95% accuracy.
+Implemented a convolutional neural network utalizing Tensorflow and Keras to identify everyday objects such as clothes and vehicles. Create functions that allowed me to transform and augument the pictures for better results.  Futhermore, hypertuned MobileNetV2 convolutional neural network to use a effective neural network algorithm that would allow the model to recieve 98% accuracy on 60 000 images.
